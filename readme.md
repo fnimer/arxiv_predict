@@ -88,6 +88,7 @@ These features are the most relevant for our most effective models and should be
     - File: `arxiv-metadata-oai-snapshot.json`
 2. **ArXiv Paper Abstracts** ([Source](https://www.kaggle.com/datasets/spsayakpaul/arxiv-paper-abstracts))
     - File: `arxi_data.csv`
+
 *Note: before running the code, download the JSON file as stated above and add it to the /data/ folder.
 
 ### Combined Dataset Summary:
