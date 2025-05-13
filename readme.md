@@ -126,11 +126,11 @@ These features are the most relevant for our most effective models and should be
 
 Word Cloud for BERT Title Clusters: 
 
-![Word Cloud Title](./images/52_wordWord.png).
+![Word Cloud Title](./images/52_wordcount_BERT_title.png).
 
 Word Cloud for BERT Abstract Clusters: 
 
-![Word Count Abstract](./images/37_wordWord.png).
+![Word Count Abstract](./images/37_wordcount_BERT_abstract.png).
 
 *Additional visualizations can be found in the [Appendix](./images/).*
 
