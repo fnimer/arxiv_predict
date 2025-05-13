@@ -132,7 +132,7 @@ Word Cloud Using BERT for Abstract Column - Clusters (k=4):
 
 ![Word Count Abstract](./images/42_wordcloud_BERT_abstract_k4.png).
 
-*Additional visualizations can be found in the [Appendix](./images/).*
+*Additional visualizations can be found in the [Images](./images/).*
 
 ---
 
@@ -185,6 +185,6 @@ Used class weighting and resampling to improve recall for the minority class.
 
 ### Detailed Visualizations:
 
-> *For more details, refer to [Appendix Plots](./images/).*
+> *For more details, refer to [Images](./images/).*
 
 ---
