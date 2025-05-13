@@ -2,7 +2,7 @@
 
 **Author**: Fernando Nimer, PhD
 
-**Date**: May 14 2025
+**Date**: May 14th, 2025
 
 ---
 
