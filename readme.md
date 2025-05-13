@@ -91,6 +91,8 @@ These features are the most relevant for our most effective models and should be
 
 *Note: before running the code, download the JSON file as stated above and add it to the /data/ folder.
 
+![Data Folder:](./tree/master/data).
+
 ### Combined Dataset Summary:
 
 - **Rows**: 11,597 (one row per research paper).
