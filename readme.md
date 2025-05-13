@@ -176,13 +176,13 @@ Used class weighting and resampling to improve recall for the minority class.
 
 ### Model Results Comparison Summary:
 
+> *For more details and additional plots with th results, refer to the folder [Final Report](./final_report/).* and [Results](./results/).*
+
 > *Note: Detailed performance metrics can be found in [Model Performance Plot](./results/Model_Performance_Metrics.png).*
 
 > *Note: Confusion Matrices:
-> ![Confusion Matrices](./results/52_wordcloud_BERT_title_k4.png).*
+> ![Confusion Matrices](./results/Confusion_Matrices.png).*
 
-> *For more details and additional plots with th results, refer to the folder [Final Report](./final_report/).* and [Results](./results/).*
- 
 ---
 
 ## Appendix
