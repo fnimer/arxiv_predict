@@ -1,4 +1,4 @@
-# Predicting the Probability of an ArXiv.org Research Paper Being Published in a Peer-reviewed Journal
+# Predicting the Probability of an ArXiv.org Research Paper Being Published in a Peer-Reviewed Journal
 
 **Author**: Fernando Nimer, PhD
 **Date**: May 5 2025
