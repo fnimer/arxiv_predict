@@ -178,6 +178,8 @@ Used class weighting and resampling to improve recall for the minority class.
 
 > *Note: Detailed performance metrics can be found in [Model Performance Plot](./results/Model_Performance_Metrics.png).*
 
+> *For more details and additional plts with th results, refer to the folder [Final Report](./final_report/).* and [Results](./results/).*
+ 
 ---
 
 ## Appendix
