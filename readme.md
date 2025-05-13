@@ -126,13 +126,13 @@ These features are the most relevant for our most effective models and should be
 
 Word Cloud Using BERT for Title Column - Clusters (k=4): 
 
-![Word Cloud Title](./images/52_wordcloud_BERT_title_k4.png).
+![Word Cloud Title](./images/52_wordcloud_BERT_title_k4.png)
 
 Word Cloud Using BERT for Abstract Column - Clusters (k=4): 
 
-![Word Count Abstract](./images/42_wordcloud_BERT_abstract_k4.png).
+![Word Count Abstract](./images/42_wordcloud_BERT_abstract_k4.png)
 
-*Additional visualizations can be found in the [Images](./images/).*
+*Additional visualizations can be found in the [Images](./images/)*
 
 ---
 
@@ -179,10 +179,10 @@ Used class weighting and resampling to improve recall for the minority class.
 > *For more details and additional plots with detailed performance metrics can be found results in the [Final Report](./final_report/).* and [Results](./results/).*
 
 > *Performance Metrics for the Models:
-> ![Model Performance Plot](./results/Model_Performance_Metrics.png).*
+> ![Model Performance Plot](./results/Model_Performance_Metrics.png)*
 
 > *Confusion Matrices for the Models:
-> ![Confusion Matrices](./results/Confusion_Matrices.png).*
+> ![Confusion Matrices](./results/Confusion_Matrices.png)*
 
 ---
 
