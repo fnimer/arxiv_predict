@@ -124,11 +124,15 @@ These features are the most relevant for our most effective models and should be
 
 ### Example Visualizations:
 
-Word Cloud for BERT Title Clusters: ![Word Cloud Title](./images/52_wordWord.png).
+Word Cloud for BERT Title Clusters: 
 
-Word Cloud for BERT Abstract Clusters: ![Word Count Abstract](./images/37_wordWord.png).
+![Word Cloud Title](./images/52_wordWord.png).
 
-> *Additional visualizations can be found in the [Appendix](./images/).*
+Word Cloud for BERT Abstract Clusters: 
+
+![Word Count Abstract](./images/37_wordWord.png).
+
+*Additional visualizations can be found in the [Appendix](./images/).*
 
 ---
 
