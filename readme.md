@@ -29,11 +29,11 @@ Not all papers on arXiv.org are published in peer-reviewed journals. Published p
 
 ## Model Purpose and Outcomes
 
-The model predicts the likelihood that a research paper posted on arXiv.org will eventually be published in a peer-reviewed journal.
+The model predicts the likelihood that a research paper posted on [arXiv.org](https://arxiv.org/) will eventually be published in a peer-reviewed journal.
 It helps researchers identify which papers are more likely to be of higher quality, allowing them to prioritize their reading or refine their own submissions.
 The model analyzes features like keywords in the title and abstract, author history, size of the paper, and other features to make its predictions.
 Using advanced techniques, the best model achieved an accuracy of 87%, meaning it correctly predicts the publication status for most cases
-Remember that publication is only a proxy for quality, and the model’s predictions should be used as a helpful guide rather than an absolute measure
+Remember that publication is only a proxy for quality, and the model’s predictions should be used as a helpful guide rather than an absolute measure.
 
 ![Model Performance Plot](./results/Model_Performance_Metrics.png)
 
